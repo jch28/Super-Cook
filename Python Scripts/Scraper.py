@@ -81,7 +81,7 @@ for each in lines:
         f.write('      "link":' + '"' + each + '"' + '\n')
         f.write('    },' + '\n')	
 
-print('}}')
+f.write('}}')
 f.close()		
         
 
