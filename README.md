@@ -1,0 +1,11 @@
+# Super-Cook 
+
+Super Cook allows you to search for common recipes based on Ingredients that you already have at home. 
+
+Add Ingredients to your Ingredients List by looking through categories, or searching for them. Click the 'Go' button to generate a list of possible recipes that can be made (2000 Recipes at the moment)
+
+Built with Expo, Firebase and React Native. Search time is still slightly long and needs tweaking. 
+
+Video Demo Link: https://vimeo.com/302446172
+
+
