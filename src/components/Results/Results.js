@@ -67,14 +67,13 @@ export default class Results extends React.Component {
     var samples = [];
     firebase.database().ref('recipes').orderByChild('size').on('child_added', (snapshot) => {
 
-        if (this.state.recipes.length < 10){
+        if (this.state.recipes.length < 7){
           var variable = snapshot.val();
           var first = "variable.";
           var last = " === 0";
           var joined = this.state.secondlist.join(' === 0 && variable.');
           var before = first.concat(joined);
           var final = before.concat(last).toLowerCase().replace(/ /g,'');
-          console.log(final)
           if (eval(final)){
               this.setState({
                 recipes: this.state.recipes.concat(
