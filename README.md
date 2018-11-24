@@ -4,7 +4,7 @@ Project for practising React Native + Firebase. Super Cook allows you to search 
 
 Add Ingredients to your Ingredients List by looking through categories, or searching for them. Click the 'Go' button to generate a list of possible recipes that can be made (2000 Recipes at the moment)
 
-Built with Expo, Firebase and React Native. Search time is still slightly long and needs tweaking. 
+Built with Expo, Firebase and React Native. Search time is a bit lengthy and I will likely refactor database soon.  
 
 Video Demo Link: https://vimeo.com/302446172
 
