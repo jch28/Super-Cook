@@ -8,5 +8,5 @@ Built with Expo, Firebase and React Native. Search time is a bit lengthy and I w
 
 Video Demo Link: https://vimeo.com/302446172
 
-Play Store Link: https://play.google.com/store/apps/details?id=com.massivedynamics.supercook
+Play Store Link: https://play.google.com/store/apps/details?id=com.tardisdynamics.supercook
 
