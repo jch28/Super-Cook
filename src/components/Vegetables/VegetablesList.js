@@ -58,6 +58,10 @@ const list = [
     avatar_url: 'https://i.imgur.com/cIc4BpR.png',
   },
   {
+    name: 'Coriander',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
     name: 'Corn',
     avatar_url: 'https://i.imgur.com/T1zgMRS.png',
   },

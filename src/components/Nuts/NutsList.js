@@ -26,6 +26,10 @@ import HeaderBar from '../HeaderBar/HeaderBar';
 
 const list = [
   {
+    name: 'Allspice',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
     name: 'Almond',
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   },
@@ -38,11 +42,19 @@ const list = [
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   },
   {
+    name: 'Nutmeg',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
     name: 'Peanut',
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   },
   {
     name: 'Peanut Butter',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
+    name: 'Pecan',
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   },
   {

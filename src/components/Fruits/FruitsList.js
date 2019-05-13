@@ -97,6 +97,10 @@ const list = [
   {
     name: 'Strawberries',
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
+    name: 'Watermelon',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   }
 ]
 

@@ -51,7 +51,15 @@ const list = [
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   },
   {
+    name: 'Paprika',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
     name: 'Soy Sauce',
+    avatar_url: 'https://i.imgur.com/0zfrvlw.png',
+  },
+  {
+    name: 'Tomato Sauce',
     avatar_url: 'https://i.imgur.com/0zfrvlw.png',
   },
   {

@@ -10,7 +10,6 @@ import {
 } from 'react-native-elements';
 import Icon from '@expo/vector-icons/FontAwesome';
 import Results from '../Results/Results';
-import firebase from 'firebase';
 
 export default class CheckOut extends React.Component {
   constructor() {
@@ -144,7 +143,7 @@ export default class CheckOut extends React.Component {
           alignSelf: 'flex-end',
           margin: 50,
           top: Dimensions.get('window').height * 0.595,
-          left: Dimensions.get('window').width * 0.665,
+          left: Dimensions.get('window').width * 0.615,
           //position: 'absolute',
           //top: Dimensions.get('window').height*0.68,
           //left: Dimensions.get('window').width*0.66
@@ -166,7 +165,7 @@ export default class CheckOut extends React.Component {
           alignItems:'center',
           justifyContent:'center',
           top: Dimensions.get('window').height * 0.59,
-          left: Dimensions.get('window').width * 0.66,
+          left: Dimensions.get('window').width * 0.615,
           width:55,
           height:55,
           backgroundColor:"#075e54",

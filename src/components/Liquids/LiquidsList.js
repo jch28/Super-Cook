@@ -26,6 +26,10 @@ import HeaderBar from '../HeaderBar/HeaderBar';
 
 const list = [
   {
+    name: 'Apple Juice',
+    avatar_url: 'https://i.imgur.com/9SENqe3.png',
+  },
+  {
     name: 'Beef Soup',
     avatar_url: 'https://i.imgur.com/9SENqe3.png',
   },
@@ -43,6 +47,10 @@ const list = [
   },
   {
     name: 'Olive Oil',
+    avatar_url: 'https://i.imgur.com/9SENqe3.png',
+  },
+  {
+    name: 'Orange Juice',
     avatar_url: 'https://i.imgur.com/9SENqe3.png',
   },
   {

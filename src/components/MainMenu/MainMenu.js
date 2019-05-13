@@ -5,7 +5,6 @@ import {
     StatusBar
 } from 'react-native';
 
-import firebase from 'firebase';
 import TabBar from '../TabBar/TabBar';
 import HeaderBar from '../HeaderBar/HeaderBar';
 import IngredientList from '../IngredientList/IngredientList';

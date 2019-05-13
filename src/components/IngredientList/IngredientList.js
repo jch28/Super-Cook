@@ -30,16 +30,6 @@ import Vegetables from '../Vegetables/Vegetables';
 import Fruits from '../Fruits/Fruits';
 import HeaderBar from '../HeaderBar/HeaderBar';
 import All from './All';
-import firebase from 'firebase';
-
-
-BackHandler.addEventListener('hardwareBackPress', function() {
-  if (!this.onMainScreen()) {
-    this.goBack();
-    return true;
-  }
-  return false;
-  });
 
 const list = [
   {
