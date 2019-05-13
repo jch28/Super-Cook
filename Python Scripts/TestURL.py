@@ -3,7 +3,7 @@ import requests
 
 f = open('output.txt','w')
 # 2827 pages
-for i in range(1, 300):
+for i in range(2501, 2827):
     url = "http://allrecipes.com/recipes/?sort=Title&page=" + str(i)
     print(i)
     r = requests.get(url)
