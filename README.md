@@ -10,5 +10,5 @@ Uploaded to Google Play.
 
 Video Demo Link: https://vimeo.com/336969397
 
-Play Store Link: https://play.google.com/store/apps/details?id=com.tardisdynamics.supercook
+APK Download Link: https://www.dropbox.com/s/9e2gmeo9f66v7dw/Super%20Chef.apk?dl=0
 
